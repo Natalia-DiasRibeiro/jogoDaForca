@@ -1,0 +1,14 @@
+######################################
+# JOGO DA FORCA EM JAVA              #
+######################################
+
+Este projeto foi desenvolvido como requisito para a disciplina de Modelagem e Programação de Sistemas Computacionais.
+
+Data de Entrega: 01/07/2025
+
+--------------------------------------
+EQUIPE DE DESENVOLVIMENTO
+--------------------------------------
+
+- Natalia Dias Ribeiro;
+- Victor dos Santos Santin;
