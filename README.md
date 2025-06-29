@@ -23,7 +23,7 @@ Este projeto é um clássico Jogo da Forca desenvolvido em Java para ser executa
 
 1.  Clone este repositório:
     ```bash
-    git clone [Link para o seu repositório GitHub]
+    git clone Natalia-DiasRibeiro/jogoDaForca/tree/main
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
